@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+ANToqzOfG2OsYlIF8SG/PT0eWd19S32N1BBpItoTPaPzRpHJHIAqiZ01C2o9tY9xQBPEb6yJFylTrwfwZQPg==",
+  "dgSpecHash": "WGvkN+e8jU8K8Wtmw4hBnRvO0ovCT7CHp9jM8s5hxBjiDzeiIvRXp2a6nlpWBSH+0FIF2uMV8hwLlTh3TD6tAA==",
   "success": true,
-  "projectFilePath": "s:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
+  "projectFilePath": "S:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\SEC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

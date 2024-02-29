@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "s:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj": {}
+    "S:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj": {}
   },
   "projects": {
-    "s:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj": {
+    "S:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "s:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
+        "projectUniqueName": "S:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
         "projectName": "Exp02-CSharpPattern",
-        "projectPath": "s:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
+        "projectPath": "S:\\c#\\Exp02-CSharpPattern\\Exp02-CSharpPattern.csproj",
         "packagesPath": "C:\\Users\\SEC\\.nuget\\packages\\",
-        "outputPath": "s:\\c#\\Exp02-CSharpPattern\\obj\\",
+        "outputPath": "S:\\c#\\Exp02-CSharpPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
